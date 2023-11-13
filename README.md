@@ -13,6 +13,7 @@
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
  <br/>
+ </br>
   <b>E-commerce Gadget</b>
   </br>
   <a href="https://johnpaulgadgets.lovestoblog.com">
