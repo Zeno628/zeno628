@@ -63,7 +63,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!%E2%9C%8C%EF%B8%8F;Message+me+on+my+portfolio;I'm+always+down+to+collab%F0%9F%98%8E">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&vCenter=true&random=false&width=435&lines=Thanks+for+visiting!%E2%9C%8C%EF%B8%8F;Message+me+on+my+portfolio;I'm+always+down+to+collab%F0%9F%98%8E">
 </h3>
 
 <br/>
