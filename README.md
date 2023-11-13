@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
  <br/>
-  <a href="https://johnpaulgadgets.lovestoblog.com">
+  <b>E-commerce Gadget</b><a href="https://johnpaulgadgets.lovestoblog.com">
     <img src="https://img.shields.io/badge/Gadget-Store-Store"/>
   </a>
  </div>
