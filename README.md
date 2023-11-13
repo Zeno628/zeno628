@@ -13,7 +13,9 @@
  
  🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
  <br/>
-  <b>E-commerce Gadget</b> <a href="https://johnpaulgadgets.lovestoblog.com">Gadget Store</a>
+  <a href="https://johnpaulgadgets.lovestoblog.com">
+    <img src="https://img.shields.io/badge/Gadget-Store-Store"/>
+  </a>
  </div>
  
 <div align="center"> 
